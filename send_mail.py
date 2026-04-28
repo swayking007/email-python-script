@@ -4,8 +4,8 @@ import os
 from email.message import EmailMessage
 
 
-EMAIL_ADDRESS = "wcecodechefchapter@gmail.com"
-EMAIL_PASSWORD = "oyypataieudiqugy"
+EMAIL_ADDRESS = "abc@gmail.com"
+EMAIL_PASSWORD = "abcdefghijklmnop"
 CERTIFICATE_FOLDER = "certificates"
 CSV_FILE = "participants.csv"
 
